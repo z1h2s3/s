@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    width: 100%;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container div {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.block_1 {
+    background: red;
+}
+
+
+.block_2 {
+    background: green;
+}
+
+
+.block_3 {
+    background: blue;
+}
